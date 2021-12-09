@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31019.35
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NIX_Homework", "NIX_Homework.csproj", "{E92964D5-BAA5-41AE-8004-1ABB90B2F284}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "..\DataLayer\DataLayer.csproj", "{9570A07D-D36D-4FE3-8BA3-277F3E5ABD1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data layer", "..\Data layer\Data layer.csproj", "{5C93CEAD-479A-4BA8-8D4C-62FC5ACF66CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{E92964D5-BAA5-41AE-8004-1ABB90B2F284}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E92964D5-BAA5-41AE-8004-1ABB90B2F284}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E92964D5-BAA5-41AE-8004-1ABB90B2F284}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9570A07D-D36D-4FE3-8BA3-277F3E5ABD1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9570A07D-D36D-4FE3-8BA3-277F3E5ABD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9570A07D-D36D-4FE3-8BA3-277F3E5ABD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9570A07D-D36D-4FE3-8BA3-277F3E5ABD1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C93CEAD-479A-4BA8-8D4C-62FC5ACF66CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C93CEAD-479A-4BA8-8D4C-62FC5ACF66CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C93CEAD-479A-4BA8-8D4C-62FC5ACF66CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C93CEAD-479A-4BA8-8D4C-62FC5ACF66CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
